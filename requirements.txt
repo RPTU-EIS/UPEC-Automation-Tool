@@ -1,0 +1,8 @@
+pandas
+pillow
+plotly
+pyslang
+pytest
+pyvis
+streamlit
+streamlit-option-menu
