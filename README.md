@@ -14,7 +14,7 @@ A structural analysis is implemented that extracts potential information flows a
 
 *This tool is still a work in progress. Please let us know if you encounter any issues.*
 
-# Getting Started
+## Getting Started
 We use [Streamlit](https://github.com/streamlit/streamlit) as our app framework and build our analysis on [slang](https://github.com/MikePopoloski/slang)'s syntax parser.
 
 1. Install all the Python dependencies listed in the requirements.txt file.
@@ -24,7 +24,7 @@ We use [Streamlit](https://github.com/streamlit/streamlit) as our app framework 
 5. Select the desired functionality from the tabs.
 
 
-# Functionality
+## Functionality
 
 ### 🏠 Design Overview
 
