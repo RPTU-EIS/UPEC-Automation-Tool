@@ -2,7 +2,7 @@
 
 # UPEC Tool
 
-[❰Getting Started❱](#getting-started) ∣ [❰Functionality❱](#functionality) | [❰References❱](#references)
+[❰Getting Started❱](#getting-started) ∣ [❰Functionality❱](#functionality) | [❰Acknowledgement❱](#acknowledgement) | [❰References❱](#references)
 
 </div>
 
@@ -94,7 +94,13 @@ The Download section allows for the separate export of the
 - **State Equivalence** macro in SVA, which is another common component of UPEC.
 
 
-# References
+## Acknowledgement
+
+This work was performed as part of the PROTECT project, funded by the German agency 'Agentur für Innovation in der Cybersicherheit GmbH' 
+(Cyberagentur) under the 'Ecosystem Formally Verifiable IT – Provable Cybersecurity' (EVIT) Program, Reference number: CAEU-WD/2023-63.
+
+
+## References
 
 [^1]: M.R. Fadiheh, A. Wezel, J. Mueller, J. Bormann, S. Ray, J. Fung, S. Mitra, D. Stoffel, W. Kunz: 
 [An Exhaustive Approach to Detecting Transient Execution Side Channels in RTL Designs of Processors](https://ieeexplore.ieee.org/abstract/document/9716812). 
